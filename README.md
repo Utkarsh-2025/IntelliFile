@@ -25,6 +25,8 @@ __API Key:__ Obtain an API key from Groq for the AI functionalities.
 # Installation
 __Clone the Repository:__ `git clone https://github.com/Utkarsh-2025/intellifile.git`
 
+__Create a Virtual Environment (Optional):__ `python -m venv .venv`
+
 __Install Dependencies:__ `pip install -r requirements.txt`
 
 __Note:__ Ensure all dependencies have been installed through 'requirements.txt' and the Environment (.env) file is imported and variables are loaded properly.
