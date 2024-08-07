@@ -1,6 +1,8 @@
 # IntelliFile
 IntelliFile is a cutting-edge file naming system that harnesses the power of artificial intelligence to automatically generate meaningful and contextually relevant names for your files. By analyzing the contents of each file, IntelliFile ensures that your documents, images, and other data are named in a way that reflects their actual content, making them easier to locate and manage. In today's fast-paced digital world, where the volume of data is rapidly increasing, IntelliFile’s AI-driven approach offers a much-needed solution to the chaos of file organization. Looking ahead, as data continues to grow exponentially, IntelliFile will become indispensable for maintaining order and efficiency in both personal and professional settings. In today's digital age, managing files effectively can be a daunting task, especially as data volumes continue to surge. Enter IntelliFile, a groundbreaking solution designed to transform how we handle and organize our files. With its advanced AI-driven technology, IntelliFile not only enhances file management efficiency but also revolutionizes accuracy and speed.
 
+__Note:__ Have provided a sample `data` folder holding 2 files `Rename1.txt` and `Rename2.txt`, to test the tool, containing information on Apple Fruit and Indian Railways respectively. Make sure the `data` folder is in the same directory as the project.
+
 # Features
 __Automated File Categorization:__ Leverages AI to analyze file content and assign appropriate categories.
 
